@@ -1,0 +1,9 @@
+```txt
+fastapi
+uvicorn[standard]
+groq
+tavily-python
+python-dotenv
+pydantic
+httpx
+```
